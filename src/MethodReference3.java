@@ -8,6 +8,7 @@ class CheckMethodReference{
         System.out.println("Value is: "+str);
     }
 }
+
 public class MethodReference3 {
 
     public static void main(String[] args) {
